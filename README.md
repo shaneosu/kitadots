@@ -17,3 +17,5 @@ uploaded to this repo are the config files for yasb, as well as my komorebi conf
 
   Going to be real im unsure who the original artist is for this image (i got it from an osu! beatmap), but I did make further edits to it afterwards in photoshop. The visualizer is created using <a href="https://steamcommunity.com/workshop/filedetails/?id=1509243786">CWAV Engine</a> on Wallpaper Engine.
 
+  ![](https://raw.githubusercontent.com/shaneosu/kitadots/refs/heads/main/lovesongdark.png)
+
