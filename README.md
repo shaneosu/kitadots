@@ -4,9 +4,15 @@
 
   Won't be continuting to update this config as I personally dont like the red color scheme. Thought I would still upload to this repo for those that enjoyed seeing it initially.
 uploaded to this repo are the config files for yasb, as well as my komorebi config.
+
+# yasb config
+
+  Fair warning the config is very messy, I'm still relatively new to this, so a lot of my solutions for getting the bar to look and function the way I intended are very scuffed.
+
 # Explorer theme
 
   The theme used for my windows explorer was <a href="https://www.deviantart.com/niivu/art/Quixotic-SE-for-Windows-11-988432646">Quixotic SE by niivu</a>.
+
 # Wallpaper
 
   Going to be real im unsure who the original artist is for this image (i got it from an osu! beatmap), but I did make further edits to it afterwards in photoshop. The visualizer is created using <a href="https://steamcommunity.com/workshop/filedetails/?id=1509243786">CWAV Engine</a> on Wallpaper Engine.
